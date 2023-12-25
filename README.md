@@ -3,7 +3,7 @@
 ### screenshots
 
 #### home
-![home](img/readme/3.PNG)
+![home](img/readme/home.PNG)
 <br>
 
 #### contact us
